@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "test title",
+      "description": "test description",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "description 2",
+      "id": 2
+    },
+    {
+      "title": "my stream",
+      "description": "my stream with userId",
+      "userId": "108398617230147808291",
+      "id": 3
+    },
+    {
+      "title": "my title",
+      "description": "my description",
+      "userId": "108398617230147808291",
+      "id": 4
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "should not see this!",
+      "userId": "108398617230147808291",
+      "id": 5
+    },
+    {
+      "title": "haha",
+      "description": "refactored!",
+      "userId": "114594114573957618408",
+      "id": 6
+    },
+    {
+      "title": "component reuse",
+      "description": "yes...",
+      "id": 7
+    }
+  ]
+}
