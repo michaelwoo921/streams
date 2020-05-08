@@ -18,15 +18,9 @@
     },
     {
       "title": "my title",
-      "description": "my description",
+      "description": "refactored",
       "userId": "108398617230147808291",
       "id": 4
-    },
-    {
-      "title": "programmatic navigation",
-      "description": "should not see this!",
-      "userId": "108398617230147808291",
-      "id": 5
     },
     {
       "title": "haha",
